@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 防疫信息登记 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA81B.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/防疫信息登记.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\projects\接单\单0\要求\新建文件夹 (2)\防疫信息登记\project_fangyi\防疫信息登记\GlyDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA81B.tmp" 
+<h3>Output Window</h3>
+Compiling...
+GlyDlg.cpp
+
+
+
+<h3>Results</h3>
+GlyDlg.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
